@@ -1,3 +1,2 @@
 # Educatica
 # Educatica
-# Educatica
